@@ -4,7 +4,7 @@
 
 ### My version will not start search until the dashlane is in foreground. For the old version, if the mac is in heavy load, the search may fail.
 
-You can [Download workflow](https://github.com/rockkoca/find_in_dashlane_alfred_workflow/raw/master/Find%20in%20Dashlane.alfredworkflow) here.
+You can [Download workflow](https://github.com/rockkoca/find_in_bitwarden/raw/master/Find%20in%20Bitwarden.alfredworkflow) here.
 
 
 # Usage
