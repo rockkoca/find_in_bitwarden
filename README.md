@@ -1,4 +1,4 @@
-# find_in_dashlane_alfred_workflow
+# find_in_bitwarden_alfred_workflow
 #### Made little improvement from [this version](https://www.alfredforum.com/topic/7228-dashlane-workflow/).
 
 
