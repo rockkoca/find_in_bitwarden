@@ -3,7 +3,6 @@
 
 
 forked from https://github.com/rockkoca/find_in_dashlane_alfred_workflow
-Bitwarden does not support shortcut to enter the search box yet.
 
 
 
