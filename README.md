@@ -9,7 +9,7 @@ You can [Download workflow](https://github.com/rockkoca/find_in_bitwarden/raw/ma
 
 # Usage
 
-Activate Alfred, then type `df <keywords>` then press enter. Example: `df google`
+Activate Alfred, then type `b <keywords>` then press enter. Example: `b google`
   
 
   
