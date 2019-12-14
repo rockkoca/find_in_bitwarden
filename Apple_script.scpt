@@ -1,5 +1,5 @@
 on alfred_script(q)
-set appname to "Dashlane"
+set appname to "Bitwarden"
 tell application appname to activate
 
 tell application "System Events"
